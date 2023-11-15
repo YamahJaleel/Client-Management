@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/7jtU9sxHNLZuv8HZCa/giphy.gif" width="500"/>
+</div>
+
 # ClientWhiz
 This project focuses on emulating enterprise-level data management using Object-Oriented Programming (OOP) principles. 
 We begin by defining a Client class equipped with a constructor that accepts essential parameters like last name, first name, phone number, and email address.
