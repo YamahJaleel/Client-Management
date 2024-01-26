@@ -3,12 +3,12 @@
 </div>
 
 # ClientWhiz
-> DESCRIPTION
+##Description
 
 This project focuses on emulating enterprise-level data management using Object-Oriented Programming (OOP) principles. 
 We begin by defining a Client class with essential parameters like last name, first name, phone number, and email address.
 
-> DETAILS
+##Details
 
 As we delve further into the development of this enterprise data management system, we introduce a Graphical User Interface (GUI) to streamline various crucial tasks. These include:
 
